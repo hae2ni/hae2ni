@@ -1,34 +1,27 @@
-<div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=He2ni%20GitHub&fontSize=90" />
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Single+Day&size=15&pause=1000&color=F76EEC&center=true&vCenter=true&width=300&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;%EC%95%9E%EC%9C%BC%EB%A1%9C+%EA%BE%B8%EC%A4%80%ED%9E%88+%EC%84%B1%EC%9E%A5%ED%95%B4+%EB%82%98%EA%B0%88+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg)
-</br>
-
-<align>
-
+<div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&fontSize=30" />
+  
 ### 👀 About Me 👀
-<details>
-<summary>
-  💎 Introduce Myself 💎
-</summary>
-  <br/>
- 아직 초보이지만 성장에 목말라 있는 개발자입니다. <br/>
-  <b>해야 할 일</b>이라고 생각하는 건 꼭 하고야 마는 성격입니다.
-</details>
-</br>
-<details>
-<summary>
-  📧 Contact 📧
-</summary>
+<b>✨ Experience </b>
 <br/>
- <a href="https://instagram.com/sun_2ni_l0v2?igshid=OGQ5ZDc2ODk2ZA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/sun_2ni_l0v2?igshid=OGQ5ZDc2ODk2ZA=="/></a> 
-<a href="mailto:hae0_02ni@ewhain.net"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hae0_02ni@ewhain.net"/></a>
-</details>
+<ul>
+  <li>이화여자대학교 웹개발 동아리 <a href="https://efub.vercel.app/">EFUB</a></li>
+  <li>GO <a href="https://www.sopt.org/">SOPT</a> 32기 web</li>
+  <li>DO SOPT 33기 web</li>
+  <li><a href="https://ceos-sinchon.com/">CEOS<a/> 20기</li>
+</ul>
+</br>
 
-
+<b>🚀 Activity</b>
+<ul>
+  <li><a href="https://tutice.com/">Tutice-과외 서비스 웹 개발</a></li>
+  <li><a href="https://www.nonsoolmate.com/">논술 메이트 웹 개발</a></li>
+  <li>엔젤 브릿지 웹 개발 (ing)</li>
+</ul>
+<div>
 
   ----
+  
 ### 🛠️ About Tech 🛠️
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -44,10 +37,12 @@
 ### 💬 Used Languages 💬
 [![Hae2ni's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hae2ni)](https://github.com/anuraghazra/github-readme-stats)
 
-</align>
 
+
+</div>
 
 ### ⭐️ Github Starts ⭐️
+
 [![Hae2ni's GitHub stats](https://github-readme-stats.vercel.app/api?username=hae2ni)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Velog 🚀
