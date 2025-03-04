@@ -8,7 +8,7 @@
   <li>이화여자대학교 웹개발 동아리 <a href="https://efub.vercel.app/">EFUB</a></li>
   <li>GO <a href="https://www.sopt.org/">SOPT</a> 32기 web</li>
   <li>DO SOPT 33기 web</li>
-  <li><a href="https://ceos-sinchon.com/">CEOS<a/> 20기</li>
+  <li><a href="https://ceos-sinchon.com/">CEOS<a/> 20기 Web</li>
 </ul>
 </br>
 
@@ -16,7 +16,7 @@
 <ul>
   <li><a href="https://tutice.com/">Tutice-과외 서비스 웹 개발</a></li>
   <li><a href="https://www.nonsoolmate.com/">논술 메이트 웹 개발</a></li>
-  <li>엔젤 브릿지 웹 개발 (ing)</li>
+  <li><a href="https://www.angelbridge.site/'>엔젤 브릿지 웹 개발</a></li>
 </ul>
 <div>
 
