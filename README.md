@@ -15,10 +15,11 @@
 <b>✨ Experience </b>
 <br/>
 <ul>
-  <li>이화여자대학교 웹개발 동아리 <a href="https://efub.vercel.app/">EFUB</a></li>
+  <li>이화여자대학교 웹개발 동아리 <a href="https://efub.vercel.app/">EFUB</a> 2기 인턴 개발자</li>
   <li>GO <a href="https://www.sopt.org/">SOPT</a> 32기 web</li>
   <li>DO SOPT 33기 web</li>
   <li><a href="https://ceos-sinchon.com/">CEOS<a/> 20기 Web</li>
+  <li>이화여자대학교 웹개발 동아리 EFUB 5기 리드 개발자</li>
 </ul>
 </br>
 
